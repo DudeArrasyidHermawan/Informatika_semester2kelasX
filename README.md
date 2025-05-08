@@ -1,1 +1,1 @@
-# Informatika_semester2kelasX
+#Tugas Informatika Semester 2
